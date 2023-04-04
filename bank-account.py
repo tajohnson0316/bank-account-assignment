@@ -32,9 +32,6 @@ class BankAccount:
             print(f"Previous balance: ${previous_balance}")
             print(f"Final balance: ${self.balance}")
             print("- - - - - - - - - - - - - - - - - - - -")
-            
-            
-            
     
     def display_account_info(self):
         print("ACCOUNT INFORMATION")
